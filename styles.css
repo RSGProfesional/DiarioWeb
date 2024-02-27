@@ -1,0 +1,16 @@
+header {
+    background-color: grey;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+}
+p {
+    text-align: right;
+}
+
+footer {
+    background-color: grey;
+    border-radius: 8px;
+    color: white;
+    padding: 6px;
+}
